@@ -27,10 +27,11 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/darkwing.11",
+                "icon": "instagram",
+                "elementId": ""
             },
             {
                 "type": "Social",
@@ -58,7 +59,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:ed.chu@edchu.dev",
                 "altText": ""
             },
             {
@@ -70,7 +71,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/darkwing-17",
                 "altText": "Netlify templates"
             }
         ],
@@ -88,7 +89,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
