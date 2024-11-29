@@ -152,11 +152,19 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram and Threads (request to add)
+            label: Instagram
             url: 'https://www.instagram.com/darkwing.11'
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Bluesky
+            url: 'https://bsky.app/edchu.bsky.social'
+        styles:
+          self:
+            textAlign: left            
     columns: 3
     spacingX: 120
     spacingY: 0
