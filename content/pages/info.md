@@ -132,15 +132,7 @@ sections:
             url: 'https://artstation.com/ecdesignworks'
         styles:
           self:
-            textAlign: left
-       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Bluesky
-            url: 'https://bsky.app/edchu.bsky.social'
-        styles:
-          self:
-            textAlign: left
+            textAlign: left  
       - type: FeaturedItem
         actions:
           - type: Link
