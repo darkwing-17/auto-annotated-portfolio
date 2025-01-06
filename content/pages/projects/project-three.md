@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Reel / video works
 colors: colors-a
 date: '2025-01-06'
-client: Reel / video works
+client: Self
 description: Some video works I've done
 featuredImage:
   type: ImageBlock
