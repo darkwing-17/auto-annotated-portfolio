@@ -4,7 +4,7 @@ title: Portfolio
 colors: colors-a
 date: '2025-01-06'
 client: Awesome client
-description: Some works I've done in the past
+description: Some painted / IRL works I've done in the past
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
