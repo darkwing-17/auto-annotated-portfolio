@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Reel / video works
 colors: colors-a
 date: '2025-01-06'
 client: Reel / video works
