@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Portfolio
 colors: colors-a
 date: '2025-01-06'
-client: Awesome client
+client: Self
 description: Some painted / IRL works I've done in the past
 featuredImage:
   type: ImageBlock
