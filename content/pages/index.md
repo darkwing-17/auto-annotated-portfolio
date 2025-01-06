@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: EC.designworks
-    subtitle: >-
-      This is a future site for EC.designworks, which will become my new online
-      studio presence. Coming soon.
+    subtitle: 'Art, game development, and other things'
     styles:
       self:
         height: auto
