@@ -13,10 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      This is a site in construction.
-    subtitle: >-
-      This is a future site for EC.designworks, which will become my new online studio presence. Coming soon.
+    title: EC.designworks
+    subtitle: 'Art, game development, and other things'
     styles:
       self:
         height: auto
@@ -59,7 +57,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -81,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Portfolio and past works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -95,7 +92,6 @@ sections:
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -153,18 +149,6 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
