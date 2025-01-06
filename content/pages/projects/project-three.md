@@ -4,10 +4,7 @@ title: One more cool project
 colors: colors-a
 date: '2025-01-06'
 client: Reel / video works
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Some video works I've done
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
