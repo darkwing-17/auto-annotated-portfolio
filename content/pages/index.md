@@ -13,10 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      This is a site in construction.
+    title: EC.designworks
     subtitle: >-
-      This is a future site for EC.designworks, which will become my new online studio presence. Coming soon.
+      This is a future site for EC.designworks, which will become my new online
+      studio presence. Coming soon.
     styles:
       self:
         height: auto
@@ -81,7 +81,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
