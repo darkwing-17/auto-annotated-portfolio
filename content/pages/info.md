@@ -232,26 +232,45 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   freelance
 
-          * fullstack at this startup
 
-          **2015**
+          **2004-2018**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Deluxe Media, software engineer, Burbank, California
+              *   DVD authoring from 2004-08
 
-          * intern developer at a big company
+              *   During DVD disc authoring, video work largely with standard definition video (480i and 720)
 
-          **2011**
+              *   Transitioned to HD-DVD and Blu-ray Disc authoring from 2009-10 (for HD-DVD) and 2009-18 for Blu-ray Disc
 
-          * flipping burgers
+              *   Transitioned to streaming media platforms from 2017-18, with work predominantly on Apple TV and Amazon Video platforms
+
+              *   Expertise with HD 1080 / UHD 4K BD authoring
+
+              *   Video work with HD 1080, UHD 2160 and HDR10 / Dolby Vision codecs
+
+              *   Lead staff in authoring, QC processes 
+
+              *   Titles worked included most Hollywood productions from the major film studios (i.e. Disney, WB, Paramount, etc.)
+
+          **2001-04**
+
+
+          *   Digital Video Compression Corporation, software engineer,
+          Universal City, California
+
+              *   DVD authoring from 2001-04 when Deluxe acquired DVCC (Deluxe Media at the time was Ritek Media)
+
+              *   During DVD disc authoring, video work largely with standard definition video (480i and 720)
+
+              *   Titles worked included most Hollywood productions from the major film studios (i.e. Disney, WB, Paramount, etc. though Universal Studios was major client)
+
         styles:
           self:
             textAlign: left
