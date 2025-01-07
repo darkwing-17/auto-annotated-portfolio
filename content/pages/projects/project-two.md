@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Portfolio
+title: Reel / video works
 colors: colors-a
 date: '2025-01-06'
 client: Self
