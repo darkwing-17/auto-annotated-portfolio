@@ -4,7 +4,7 @@ title: Reel / video works
 colors: colors-a
 date: '2025-01-06'
 client: Self
-description: Some painted / IRL works I've done in the past
+description: Video works I've done
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
