@@ -128,24 +128,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: ArtStation
+            url: 'https://artstation.com/ecdesignworks'
         styles:
           self:
-            textAlign: left
+            textAlign: left  
       - type: FeaturedItem
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://www.linkedin.com/in/echu916'
         styles:
           self:
             textAlign: left
@@ -161,10 +153,18 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/darkwing.11'
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Bluesky
+            url: 'https://bsky.app/edchu.bsky.social'
+        styles:
+          self:
+            textAlign: left            
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -204,7 +204,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'Adobe Creative Cloud'
       - type: Label
         label: React
       - type: Label
