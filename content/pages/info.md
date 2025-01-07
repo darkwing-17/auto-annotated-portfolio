@@ -14,10 +14,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: '## soon!'
-    media:
-      type: ImageBlock
-      url: /images/
-      altText: Hero image
     styles:
       self:
         height: auto
