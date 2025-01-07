@@ -7,7 +7,7 @@ client: Self
 description: Some video works I've done
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/bg1.jpg
   altText: Project image
 featuredImage:
   type: ImageBlock
