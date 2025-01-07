@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## soon!
-    media:
-      type: ImageBlock
-      url: /images/
-      altText: Hero image
+    text: '## soon!'
     styles:
       self:
         height: auto
@@ -132,7 +127,7 @@ sections:
             url: 'https://artstation.com/ecdesignworks'
         styles:
           self:
-            textAlign: left  
+            textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
@@ -142,10 +137,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -164,7 +156,7 @@ sections:
             url: 'https://bsky.app/edchu.bsky.social'
         styles:
           self:
-            textAlign: left            
+            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -204,7 +196,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'Adobe Creative Cloud'
+        label: Adobe Creative Cloud
       - type: Label
         label: React
       - type: Label
@@ -231,49 +223,50 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   freelance
 
-          * fullstack at this startup
 
-          **2015**
+          **2004-2018**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Deluxe Media, software engineer, Burbank, California
+              *   DVD authoring from 2004-08
 
-          * intern developer at a big company
+              *   During DVD disc authoring, video work largely with standard definition video (480i and 720)
 
-          **2011**
+              *   Transitioned to HD-DVD and Blu-ray Disc authoring from 2009-10 (for HD-DVD) and 2009-18 for Blu-ray Disc
 
-          * flipping burgers
+              *   Transitioned to streaming media platforms from 2017-18, with work predominantly on Apple TV and Amazon Video platforms
+
+              *   Expertise with HD 1080 / UHD 4K BD authoring
+
+              *   Video work with HD 1080, UHD 2160 and HDR10 / Dolby Vision codecs
+
+              *   Lead staff in authoring, QC processes 
+
+              *   Titles worked included most Hollywood productions from the major film studios (i.e. Disney, WB, Paramount, etc.)
+
+          **2001-04**
+
+
+          *   Digital Video Compression Corporation, software engineer,
+          Universal City, California
+
+              *   DVD authoring from 2001-04 when Deluxe acquired DVCC (Deluxe Media at the time was Ritek Media)
+
+              *   During DVD disc authoring, video work largely with standard definition video (480i and 720)
+
+              *   Titles worked included most Hollywood productions from the major film studios (i.e. Disney, WB, Paramount, etc. though Universal Studios was major client)
+
         styles:
           self:
             textAlign: left
@@ -284,18 +277,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **future education plans will be bachelor's in arts or fine arts**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          **2025, spring**
 
-          * react certificate somewhere
 
-          **2011**
+          *   associate's science degree, animation (gaming concentration),
+          Mount San Antonio College, Walnut, California
 
-          * my highschool
+
+          **2019, fall**
+
+
+          *   certificate, full stack web development, University of California,
+          Irvine, Division of Continuing Education
+
+
+
         styles:
           self:
             textAlign: left
@@ -330,18 +330,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
