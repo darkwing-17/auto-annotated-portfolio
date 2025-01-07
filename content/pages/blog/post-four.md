@@ -2,7 +2,7 @@
 type: PostLayout
 title: 1 2 3 4
 colors: colors-a
-date: '2024-03-01'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
