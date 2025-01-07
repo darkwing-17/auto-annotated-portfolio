@@ -5,10 +5,6 @@ colors: colors-a
 date: '2025-01-06'
 client: Self
 description: Some video works I've done
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
