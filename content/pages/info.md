@@ -281,18 +281,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **future education plans will be bachelor's in arts or fine arts**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          **2025, spring**
 
-          * react certificate somewhere
 
-          **2011**
+          *   associate's science degree, animation (gaming concentration),
+          Mount San Antonio College, Walnut, California
 
-          * my highschool
+
+          **2019, fall**
+
+
+          *   certificate, full stack web development, University of California,
+          Irvine, Division of Continuing Education
+
+
+
         styles:
           self:
             textAlign: left
