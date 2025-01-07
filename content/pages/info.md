@@ -13,8 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## soon!
+    text: '## soon!'
     media:
       type: ImageBlock
       url: /images/
@@ -132,7 +131,7 @@ sections:
             url: 'https://artstation.com/ecdesignworks'
         styles:
           self:
-            textAlign: left  
+            textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
@@ -142,10 +141,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -164,7 +160,7 @@ sections:
             url: 'https://bsky.app/edchu.bsky.social'
         styles:
           self:
-            textAlign: left            
+            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -204,7 +200,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'Adobe Creative Cloud'
+        label: Adobe Creative Cloud
       - type: Label
         label: React
       - type: Label
